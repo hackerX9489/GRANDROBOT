@@ -29,36 +29,36 @@
       "SQLALCHEMY_DATABASE_URI": {
          "description": "Your postgres sql db, empty this field if you dont have one.",
          "required": false,
-         "value": "sqldbtype://username:pw@hostname:port/db_name"
+         "value": "mongodb+srv://ultronx:uxgbot9489@cluster0.l8dp9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "1100231654"
+         "value": "1875639284"
       },
       "OWNER_NAME": {
-         "description": "Your username",
-         "value": "LEGENDX22"
+         "description": "Your Name",
+         "value": "Ultron"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
-         "value": "1100231654"
+         "value": "1875639284"
       },
 "GRAND_IMG": {
          "description": "Image shows when hit /start",
-         "value": "https://telegra.ph/file/84b2017bc2f3c90f2e61c.jpg"    
+         "value": "https://telegra.ph/file/9a2e85679e3c5dc7be2f0.jpg"    
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
-         "value": "-123"
+         "value": "-1510042607"
       },
       "CASH_API_KEY": {
          "description": "Required for currency converter",
-         "value": "-xyz"
+         "value": "2XNTGMF3UB5EOZBU"
       },
       "TIME_API_KEY": {
          "description": "Required for timezone information",
-         "value": "HW6LQCYX43HS"
+         "value": "O37XR6W70EMA"
       },
       "AI_API_KEY": {
          "description": "for activate chatbot",
@@ -66,7 +66,7 @@
       },
       "API_OPENWEATHER": {
          "description": "Required for weather information",
-         "value": "5c5adc2bc1832de6943e3f4467e84c39"
+         "value": "a482184b58ce721f71a26f7d263a2ef1"
       },
       "PORT": {
          "description": "Port to use for your webhooks.",
@@ -80,22 +80,22 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "1100231654"
+         "value": "1875639284"
       },
       "TIGER_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "1100231654"
+         "value": "1875639284"
       },
       "TOKEN": {
          "description": "Your bot token.",
          "required": true,
-         "value": ""
+         "value": "1761314424:AAF0arig8IyvCoSLeiwz9YUKkRMB81dSJW4"
       },
       "URL": {
          "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
          "required": false,
-         "value": ""
+         "value": "https://ultrongbot.herokuapp.com/"
       },
       "WEBHOOK": {
          "description": "Setting this to ANYTHING will enable webhooks.",
@@ -105,16 +105,17 @@
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "1100231654"
+         "value": "1875639284"
       }
    },
    "keywords": [
       "telegram",
       "group",
       "manager",
-      "bot"
+      "bot",
+      "Ultron"
    ],
-   "logo": "https://telegra.ph/file/84b2017bc2f3c90f2e61c.jpg",
-   "name": "GRAND OFFICIAL",
-   "repository": "https://github.com/legendx22/GRANDROBOT"
+   "logo": "https://telegra.ph/file/f50a2905bf9850e37d761.jpg",
+   "name": "Ultron",
+   "repository": "https://github.com/hackerX9489/GRANDROBOT"
 }
